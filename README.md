@@ -1,4 +1,5 @@
 #Bird Species prediction using Machine Learning
+
 This project is focused on predicting the species of birds based on their images. It uses machine learning techniques to classify bird images into different categories of bird species. The dataset used in this project is the CUB-200-2011 dataset, which contains images of 200 different species of birds.
 
 Requirements
